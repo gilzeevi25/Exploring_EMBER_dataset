@@ -5,4 +5,5 @@ We inspected several methods for feature selection and dimensionality reduction 
 Notes:
 * Engage Ember wraps inside the actions need to be made beforehand in order to start playing around with EMBER dataset.
 * We also would like to refer to the author's [repo](https://github.com/elastic/ember).<br>
-* ![visitors](https://visitor-badge.glitch.me/badge?page_id=gilzeevi25.Exploring_EMBER_dataset.issue.1) <br/>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gilzeevi25.Exploring_EMBER_dataset.issue.1) <br/>
